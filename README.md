@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ragnarkon?style=social) [![Bryan Woolsey's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=20)](https://dev.to/ragnarkon)
+![Twitter Follow](https://img.shields.io/twitter/follow/ragnarkon?style=social) <a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=19/></a>
 
 I'm a Technology Engineer specializing in configuration management. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
 configuration management tools.
