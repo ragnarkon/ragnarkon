@@ -25,11 +25,10 @@ usually enjoying one of the typical "outdoorsy" activities: camping, fishing, sk
 #### 📕 Latest Articles
 
 <!-- ARTICLES-POST-LIST:START -->
-- [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
-- [How To Create A Kickass GitHub Profile Page](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
-- [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
-- [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
-- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
+- [Your own private cloud? A brief look at Antsle](https://dev.to/ragnarkon/your-own-private-cloud-a-brief-look-at-antsle-122k)
+- [Dealing with long strings in YAML](https://dev.to/ragnarkon/dealing-with-long-strings-in-yaml-kpc)
+- [Avoiding Resource Conflicts in Puppet](https://dev.to/ragnarkon/avoiding-resource-conflicts-2lik)
+- [The better way to access Puppet facts](https://dev.to/ragnarkon/the-better-way-to-access-puppet-facts-391n)
 <!-- ARTICLES-POST-LIST:END -->
 
 <!---
