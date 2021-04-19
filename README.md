@@ -12,17 +12,24 @@ playing with all things hardware. Build computers, play with embedded systems, p
 Golang. It's a work-in-progress, but I'm getting there.
 
 I also play entirely too many video games, most notably World of Warcraft, but I'm also a big FPS & RTS fan. If you do find me outside for any length of time, it's
-usually enjoying one of the typical "outdoorsy" activities: camping, fishing, skiing, hiking,
+usually enjoying one of the typical "outdoorsy" activities: camping, fishing, skiing, hiking, etc.
 
 ---
 
-#### 🧰 Toolbox
+#### :toolbox: Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="Apple" height="50"/>
 
 ---
 
-#### 📕 Latest Articles
+#### :octocat: Notable Repositories
+
+Unfortunately most of the repositories I work on a daily basis are private. But on the rare occasion I am able to post something open source and it's something I think
+will be useful, I'll post it below.
+
+- [ragnarkon/puppet-lint-deprecation-check](https://github.com/ragnarkon/puppet-lint-deprecation-check) - Puppet Lint plugin to check for deprecated code.
+
+#### :closed_book: Latest Articles
 
 <!-- ARTICLES-POST-LIST:START -->
 - [Your own private cloud? A brief look at Antsle](https://dev.to/ragnarkon/your-own-private-cloud-a-brief-look-at-antsle-122k)
