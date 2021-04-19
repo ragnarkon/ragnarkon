@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ragnarkon?style=social) [![Bryan Woolsey's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/ragnarkon)
+![Twitter Follow](https://img.shields.io/twitter/follow/ragnarkon?style=social) [![Bryan Woolsey's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=20)](https://dev.to/ragnarkon)
 
 I'm a Technology Engineer specializing in configuration management. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
 configuration management tools.
@@ -18,10 +18,10 @@ usually enjoying one of the typical "outdoorsy" activities: camping, fishing, sk
 
 #### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" width="142" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="45" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/>
 
 ---
 
