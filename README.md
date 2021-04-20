@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://twitter.com/ragnarkon"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height=26/></a> <a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=26/></a>
+<a href="https://twitter.com/ragnarkon?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ragnarkon</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=30/></a>
 
 I'm a Technology Engineer specializing in configuration management. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
 configuration management tools.
