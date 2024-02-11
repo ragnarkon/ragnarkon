@@ -16,7 +16,7 @@ Golang. It's a work-in-progress, but I'm getting there.
 
 #### :toolbox: Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="Apple" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" alt="Apple" height="50"/>
 
 ---
 
