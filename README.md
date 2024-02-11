@@ -5,8 +5,8 @@
 <a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=30/></a> <a href="https://twitter.com/ragnarkon"><img
 src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height=30/></a>
 
-I'm a Technology Engineer specializing in configuration management. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
-configuration management tools.
+I'm a Cloud Engineer specializing in configuration management, infrastructure-as-code, and CI/CD. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
+tooling out there.
 
 My original plan in life was to something in the electrical engineering field. That didn't really work out as intended, so instead I tend to spend much of my free time
 playing with all things hardware. Build computers, play with embedded systems, program FPGAs, etc. But I also dabble in web development (Rails) and am currently learning
