@@ -22,6 +22,7 @@ of my ability. It's a work-in-progress, but I'm getting there.
 #### :closed_book: Latest Articles
 
 <!-- ARTICLES-POST-LIST:START -->
+- [A Criticism of Scrum](https://dev.to/ragnarkon/a-criticism-of-scrum-21al)
 - [Your own private cloud? A brief look at Antsle](https://dev.to/ragnarkon/your-own-private-cloud-a-brief-look-at-antsle-122k)
 - [Dealing with long strings in YAML](https://dev.to/ragnarkon/dealing-with-long-strings-in-yaml-kpc)
 - [Avoiding Resource Conflicts in Puppet](https://dev.to/ragnarkon/avoiding-resource-conflicts-2lik)
