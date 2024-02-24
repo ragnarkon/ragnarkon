@@ -2,21 +2,20 @@
 
 ---
 
-<a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=30/></a> <a href="https://twitter.com/ragnarkon"><img
-src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height=30/></a>
+<a href="https://dev.to/ragnarkon"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height=30/></a>
 
-I'm a Cloud Engineer specializing in configuration management, infrastructure-as-code, and CI/CD. Currently, that includes a lot of Puppet and Terraform, but I'm familiar with most of the popular
-tooling out there.
+I'm a Cloud Engineer specializing in configuration management, infrastructure-as-code, and CI/CD. Currently, that includes a lot of Terraform, but I'm familiar with most of the popular
+tooling out there--Ansible, Chef, ArgoCD, Jenkins, and my all-time favorite tool: Puppet.
 
 My original plan in life was to something in the electrical engineering field. That didn't really work out as intended, so instead I tend to spend much of my free time
-playing with all things hardware. Build computers, play with embedded systems, program FPGAs, etc. But I also dabble in web development (Rails) and am currently learning
-Golang. It's a work-in-progress, but I'm getting there.
+playing with all things hardware. Build computers, play with embedded systems, program FPGAs, etc. But I also dabble in web development and am currently learning Golang to the best
+of my ability. It's a work-in-progress, but I'm getting there.
 
 ---
 
 #### :toolbox: Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" alt="Apple" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" alt="Puppet" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" alt="Apple" height="50"/>
 
 ---
 
@@ -33,7 +32,7 @@ Golang. It's a work-in-progress, but I'm getting there.
 
 #### :octocat: Notable Repositories
 
-Unfortunately most of the repositories I work on a daily basis are private. But on the rare occasion I am able to post something open source and it's something I think
+Most of the repositories I work on a daily basis are private. But on the rare occasion I am able to post something open source and it's something I think
 will be useful, I'll post it below.
 
 - [ragnarkon/puppet-lint-deprecation-check](https://github.com/ragnarkon/puppet-lint-deprecation-check) - Puppet Lint plugin to check for deprecated code.
